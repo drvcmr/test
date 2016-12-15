@@ -1,1 +1,1 @@
-<?php echo('Hello everybody! this is second edition.'); ?>
+<?php echo('Hello everybody! This test page.'); ?>
