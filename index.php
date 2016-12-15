@@ -4,6 +4,6 @@
  </head>
 <body>
 < ?php echo 'Test page </p>'; ?>
-<body>
+</body>
 </html>
 
